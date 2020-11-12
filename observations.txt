@@ -1,0 +1,14 @@
+primary key support
+foreign
+
+2 steps : 
+Creating the database
+Filling the database
+
+You can use this either sys or creating an object
+
+Time string needs to be in the following format
+
+When will the solution fail ?
+What in the JSON may make it fail :
+    the keys aren't the same for every dict

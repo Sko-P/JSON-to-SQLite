@@ -2,6 +2,7 @@ import sqlite3
 import json
 import re
 import sys
+
 class sqlj:
     def __init__(self, name, json, name_table):
         self.name_db = name

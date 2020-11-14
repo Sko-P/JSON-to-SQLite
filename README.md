@@ -1,6 +1,6 @@
 # JSON to SQLite database
 
-## Description :
+## Description  
 
 This tool takes a JSON file's data and puts it inside a SQLite Database.
 
@@ -39,9 +39,10 @@ You will have a database structured in this way :
 |lkqsq27474qsq|Adriane|18|west|g|2004-08-21 10:02:11|
 
 **NOTE :**  
-Make sure your dates inside the JSON file are written in the SQLite date format.
+* Make sure your dates inside the JSON file are written in the SQLite date format.
+* This tool comes with a JSON file example named "dict.json"
 
-## Installation :
+## Installation  
 
 * Clone this repository : 
 ```bash
